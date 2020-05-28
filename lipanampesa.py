@@ -1,1 +1,1 @@
-print("Welcome to Fullstack Django")
+print("Welcome to Mpesa Link")
